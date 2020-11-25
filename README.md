@@ -1,2 +1,2 @@
-# NLP_Course_Project_Phase1
+# Multi class text classification using logistic regression
 A repo for my 'NLP course final project - phase 1'
