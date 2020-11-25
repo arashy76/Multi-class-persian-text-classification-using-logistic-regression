@@ -1,2 +1,2 @@
 # Multi class persian text classification using logistic regression
-A repo for my 'NLP course final project - phase 1'
+A multi class persian text classification using logistic regression as my 'NLP course final project - phase 1'
